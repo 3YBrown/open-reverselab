@@ -1,5 +1,7 @@
 # ReverseLab
 
+> 🎯 QQ交流群：**1087738815**
+
 Open-source reverse engineering lab — 178-article knowledge base, 100+ MCP automation tools, covering CTF pentesting / APK reverse engineering / PE binary analysis / cryptography & protocol cracking / game cheating analysis. Agent-native, directory-as-convention.
 
 > [中文版](README.zh.md)
