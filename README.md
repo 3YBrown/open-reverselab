@@ -1,6 +1,6 @@
 # ReverseLab
 
-> 🎯 QQ交流群：**1087738815** | Discord：[**discord.gg/But5j58J2f**](https://discord.gg/But5j58J2f)
+> 🎯 Discord：[**discord.gg/But5j58J2f**](https://discord.gg/But5j58J2f)
 
 Open-source reverse engineering lab — 178-article knowledge base, 100+ MCP automation tools, covering CTF pentesting / APK reverse engineering / PE binary analysis / cryptography & protocol cracking / game cheating analysis. Agent-native, directory-as-convention.
 
